@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimpleController/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleController/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.38-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleController/WebRoot/WEB-INF/lib/sqlitejdbc-v048-nested.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

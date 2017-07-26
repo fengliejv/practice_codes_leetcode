@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenge/Challenge.iml" filepath="$PROJECT_DIR$/Challenge/Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hua/Hua.iml" filepath="$PROJECT_DIR$/Hua/Hua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleController/SimpleController.iml" filepath="$PROJECT_DIR$/SimpleController/SimpleController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Study/Study.iml" filepath="$PROJECT_DIR$/Study/Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserManagement/UserManagement.iml" filepath="$PROJECT_DIR$/UserManagement/UserManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sphinx4-samples/src/main/main.iml" filepath="$PROJECT_DIR$/sphinx4-samples/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
